@@ -1,0 +1,22 @@
+{
+    "store.home": {
+        "blocks": [
+            "shelf"
+        ]
+    },
+    "shelf": {
+        "props": {
+            "category": 1,
+            "orderBy": "OrderByTopSaleDESC",
+            "paginationDotsVisibility": "desktopOnly",
+            "productList": {
+              "maxItems": 8,
+              "itemsPerPage": 4,
+              "minItemsPerPage": 1,
+              "scroll": "BY_PAGE",
+              "arrows": true,
+              "titleText": "Top sellers"
+            }
+          }
+    }
+}
