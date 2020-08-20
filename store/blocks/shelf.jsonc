@@ -1,7 +1,4 @@
 {
-    "shelf.home": {
-        "blocks": [ "shelf" ]
-    },
     "shelf": {
         "props": {
             "category": 1,
