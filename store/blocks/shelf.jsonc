@@ -1,8 +1,6 @@
 {
-    "store.home": {
-        "blocks": [
-            "shelf"
-        ]
+    "shelf.home": {
+        "blocks": [ "shelf" ]
     },
     "shelf": {
         "props": {
